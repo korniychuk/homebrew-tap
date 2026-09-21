@@ -2,9 +2,9 @@
 class Goku < Formula
   desc "Karabiner configurator (fork: scan_next_track/scan_previous_track + auto-synced upstream)"
   homepage "https://github.com/korniychuk/GokuRakuJoudo"
-  url "https://github.com/korniychuk/GokuRakuJoudo/releases/download/v0.8.0-ankor.4/goku-aarch64-apple-darwin.zip"
-  version "0.8.0.4"
-  sha256 "9ea0b5b3f548a3899334a0d9502c1057d97701278c7134ffb083655b0a5ab6e8"
+  url "https://github.com/korniychuk/GokuRakuJoudo/releases/download/v0.8.0-ankor.5/goku-aarch64-apple-darwin.zip"
+  version "0.8.0.5"
+  sha256 "2290b44ff15e095c593d2d82998dd56387d653068f23b88f7a9bdd2218bab99b"
 
   depends_on :macos
   depends_on arch: :arm64
